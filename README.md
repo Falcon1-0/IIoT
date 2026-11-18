@@ -47,33 +47,6 @@ Web / Mobile Dashboard
 Monitoring & Alerts
 ```
 
-### Three-Site Architecture
-
-```text
-Factory 1
-Raspberry Pi 4 + Sense HAT
-        |
-        | MQTT/TLS
-        v
-+-----------------------+
-|                       |
-|    Blynk IoT Cloud    |
-|                       |
-+-----------------------+
-        ^
-        | MQTT/TLS
-        |
-Factory 2
-Raspberry Pi 4 + Sense HAT
-
-        ^
-        | MQTT/TLS
-        |
-Factory 3
-ESP32 + DHT11
-+ Simulated Pressure
-```
-
 ---
 
 ## Hardware Used

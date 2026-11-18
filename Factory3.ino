@@ -19,7 +19,7 @@ const char* MQTT_SERVER = "ny3.blynk.cloud";
 const int MQTT_PORT = 8883;
 
 const char* MQTT_USERNAME = "device";
-const char* BLYNK_AUTH_TOKEN = "Mp0luz5EOPMfVsyfp7-Sx3itYx25Ay3S";
+const char* BLYNK_AUTH_TOKEN = "";
 
 // Send data to Blynk every 3 seconds
 const unsigned long PUBLISH_INTERVAL = 3000;

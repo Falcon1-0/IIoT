@@ -14,7 +14,7 @@ BLYNK_BROKER = "blynk.cloud"
 BLYNK_PORT = 8883
 
 # Replace this with your Blynk device Auth Token
-BLYNK_AUTH_TOKEN = "lNQ19bRtb0rCQEKgzYllkz_haPWCemvz"
+BLYNK_AUTH_TOKEN = ""
 
 MQTT_USERNAME = "device"
 
